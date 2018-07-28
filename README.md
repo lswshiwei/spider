@@ -1,6 +1,372 @@
 # spider
 scrapy爬取51job职位信息
-
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=UTF-8">
+</head>
+<body bgcolor="#FFFFFF">
+<table border="1">
+<tr>
+  <td>name</td>
+  <td>company</td>
+  <td>id</td>
+  <td>money</td>
+  <td>address</td>
+</tr>
+<tr>
+  <td>高级Python开发工程师</td>
+  <td>杭州沃趣科技股份有限公司</td>
+  <td>151</td>
+  <td>1.6-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>python爬虫工程师</td>
+  <td>杭州百众企业管理咨询有限公司</td>
+  <td>152</td>
+  <td>1.8-2.5万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州迪英加科技有限公司</td>
+  <td>153</td>
+  <td>1.5-2万/月</td>
+  <td>杭州-余杭区</td>
+</tr>
+<tr>
+  <td>Python中级工程师</td>
+  <td>浙江康铭泰克信息科技股份有限公司</td>
+  <td>154</td>
+  <td>1-1.5万/月</td>
+  <td>杭州-西湖区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>浙江今明教育文化发展有限公司</td>
+  <td>155</td>
+  <td>1-1.5万/月</td>
+  <td>杭州-西湖区</td>
+</tr>
+<tr>
+  <td>python软件工程师</td>
+  <td>浙江清华柔性电子技术研究院</td>
+  <td>156</td>
+  <td>15-20万/年</td>
+  <td>杭州-下城区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>浙江星嘉合科技有限公司</td>
+  <td>157</td>
+  <td>1.5-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>python-web&nbsp;全栈工程师</td>
+  <td>杭州创慧信息技术有限公司</td>
+  <td>158</td>
+  <td>6-8千/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>python开发工程师（双休+五险）</td>
+  <td>杭州斯荙克信息技术有限公司</td>
+  <td>159</td>
+  <td>4-6千/月</td>
+  <td>杭州-西湖区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州中焯信息技术股份有限公司</td>
+  <td>160</td>
+  <td>0.8-1.1万/月</td>
+  <td>杭州-西湖区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州拓叭吧科技有限公司</td>
+  <td>161</td>
+  <td>1-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python</td>
+  <td>杭州神中科技有限公司</td>
+  <td>162</td>
+  <td>0.8-1.5万/月</td>
+  <td>杭州-余杭区</td>
+</tr>
+<tr>
+  <td>技术开发-后端工程师-python</td>
+  <td>上海巴九灵文化传播有限公司</td>
+  <td>163</td>
+  <td>1-1.5万/月</td>
+  <td>杭州-下城区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>上海天玑科技股份有限公司</td>
+  <td>164</td>
+  <td>1.5-2万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>python后端工程师</td>
+  <td>台州汇聚信息科技有限公司</td>
+  <td>165</td>
+  <td>1-2.5万/月</td>
+  <td>异地招聘</td>
+</tr>
+<tr>
+  <td>Python/C++开发工程师</td>
+  <td>恒生电子股份有限公司</td>
+  <td>166</td>
+  <td>1-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州勤鼎科技有限公司</td>
+  <td>167</td>
+  <td>6-8千/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>五险Python开发工程师助理</td>
+  <td>杭州斯荙克信息技术有限公司</td>
+  <td>168</td>
+  <td>4-6千/月</td>
+  <td>杭州-拱墅区</td>
+</tr>
+<tr>
+  <td>python编程老师</td>
+  <td>上海傲梦网络科技有限公司</td>
+  <td>169</td>
+  <td>0.8-1万/月</td>
+  <td>异地招聘</td>
+</tr>
+<tr>
+  <td>Python高级开发工程师</td>
+  <td>圆通速递有限公司</td>
+  <td>170</td>
+  <td>1.8-3.5万/月</td>
+  <td>杭州-余杭区</td>
+</tr>
+<tr>
+  <td>Python</td>
+  <td>特维轮网络科技（杭州）有限公司</td>
+  <td>171</td>
+  <td>1.2-2万/月</td>
+  <td>杭州-拱墅区</td>
+</tr>
+<tr>
+  <td>1023Python&nbsp;web开发</td>
+  <td>杭州博彦信息技术有限公司</td>
+  <td>172</td>
+  <td>0.8-1.3万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python高级开发工程师</td>
+  <td>杭州盈丰软件股份有限公司</td>
+  <td>173</td>
+  <td>1-2万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>浙江驿道网络科技有限公司</td>
+  <td>174</td>
+  <td>1-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>python&nbsp;开发工程师</td>
+  <td>浙江至讯科技有限公司</td>
+  <td>175</td>
+  <td>1-2万/月</td>
+  <td>杭州-拱墅区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>申朴信息技术（上海）股份有限公司</td>
+  <td>176</td>
+  <td>1-1.7万/月</td>
+  <td>杭州-余杭区</td>
+</tr>
+<tr>
+  <td>后端Python</td>
+  <td>杭州龙运网络科技有限公司</td>
+  <td>177</td>
+  <td>1-1.5万/月</td>
+  <td>杭州-上城区</td>
+</tr>
+<tr>
+  <td>Python爬虫工程师（杭州）</td>
+  <td>乐其网络科技有限公司</td>
+  <td>178</td>
+  <td>0.8-1万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州轻触科技有限公司</td>
+  <td>179</td>
+  <td>1-2万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>Python开发工程师（实习）</td>
+  <td>杭州牛盾网络技术有限公司</td>
+  <td>180</td>
+  <td>4-6千/月</td>
+  <td>杭州-余杭区</td>
+</tr>
+<tr>
+  <td>Python&nbsp;Web开发工程师</td>
+  <td>嘉兴构美信息技术有限公司</td>
+  <td>181</td>
+  <td>1-1.8万/月</td>
+  <td>杭州-江干区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>北京中宇华兴科技有限公司</td>
+  <td>182</td>
+  <td>1-1.5万/月</td>
+  <td>异地招聘</td>
+</tr>
+<tr>
+  <td>python服务器</td>
+  <td>杭州奇光网络科技有限公司</td>
+  <td>183</td>
+  <td>1.8-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州筑龙信息技术股份有限公司</td>
+  <td>184</td>
+  <td>1.5-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python讲师</td>
+  <td>杭州电魂网络科技股份有限公司</td>
+  <td>185</td>
+  <td>0.8-1.5万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>浙江场景区块链科技有限公司</td>
+  <td>186</td>
+  <td>2-4万/月</td>
+  <td>杭州-江干区</td>
+</tr>
+<tr>
+  <td>python开发工程师</td>
+  <td>杭州谦谦企业管理咨询有限公司</td>
+  <td>187</td>
+  <td>12-25万/年</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>Linux&nbsp;python开发运维</td>
+  <td>杭州联众医疗科技股份有限公司</td>
+  <td>188</td>
+  <td>1-2万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>python后端开发</td>
+  <td>杭州麦苗网络技术有限公司</td>
+  <td>189</td>
+  <td>1-1.5万/月</td>
+  <td>杭州-西湖区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>深圳前海橙色魔方信息技术有限公司</td>
+  <td>190</td>
+  <td>1.5-2万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州露电科技有限公司</td>
+  <td>191</td>
+  <td>4.5-8千/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>运维开发工程师（Python）</td>
+  <td>网易集团</td>
+  <td>192</td>
+  <td>1-1.5万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>Python&nbsp;开发工程师</td>
+  <td>新华三技术有限公司</td>
+  <td>193</td>
+  <td>1.5-2.5万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州矛矛予科技有限公司</td>
+  <td>194</td>
+  <td>1.2-1.8万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>上海胜日信息科技有限公司</td>
+  <td>195</td>
+  <td>1.5-2万/月</td>
+  <td>异地招聘</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>浙江诺诺网络科技有限公司</td>
+  <td>196</td>
+  <td>1.4-2万/月</td>
+  <td>杭州</td>
+</tr>
+<tr>
+  <td>中级Python</td>
+  <td>杭州宸鹫科技有限公司</td>
+  <td>197</td>
+  <td>0.8-1万/月</td>
+  <td>杭州-江干区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>杭州币事科技开发有限公司</td>
+  <td>198</td>
+  <td>0.7-1.4万/月</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>区块链技术开发工程师（go-c++-Python&nbsp;）</td>
+  <td>杭州复杂美科技有限公司</td>
+  <td>199</td>
+  <td>20-50万/年</td>
+  <td>杭州-滨江区</td>
+</tr>
+<tr>
+  <td>Python开发工程师</td>
+  <td>上海博为峰软件技术有限公司</td>
+  <td>200</td>
+  <td>6-8千/月</td>
+  <td>杭州</td>
+</tr>
+</table>
+</body>
+</html>
 redis分布式爬取bt电影
 
 <html>
